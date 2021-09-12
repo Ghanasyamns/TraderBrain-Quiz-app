@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    li{
+        @apply flex mr-2;
+    }
+    .quiz-card{
+        @apply w-full h-full flex flex-col md:flex-row justify-around items-center text-white;
+    }
+    .quiz-btn{
+     @apply  w-[50%] h-[30%] md:w-[30%] md:h-[30%]   rounded-lg bg-gradient-to-r from-purple-400 via-pink-500 to-red-500;
+    }
+    .start-btn{
+     @apply   mt-[20%] md:mt-[25%] px-12 py-3 bg-green-600 rounded-lg text-lg active:scale-110 transition transform duration-300  ease-in-out;
+    }
+    .options{
+        @apply flex  items-center ml-6 py-12 w-full h-[50%] text-xl text-gray-700;
+    }
+    .radio-btn{
+        @apply w-5 h-5 mr-4 active:scale-125 duration-75 ;
+    }
+    .sub-prev-btn{
+        @apply text-xl px-8 py-5 bg-green-600 rounded-lg text-white;
+    }
+    .qst-num{
+        @apply flex justify-center items-center w-14 h-14 border-[1px] border-gray-600 bg-blue-400 rounded-full text-xl
+    }
+}
