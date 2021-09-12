@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TraderBrain-Quiz-app/static/css/main.2636e90b.chunk.css",
-    "main.js": "/TraderBrain-Quiz-app/static/js/main.fdc77444.chunk.js",
-    "main.js.map": "/TraderBrain-Quiz-app/static/js/main.fdc77444.chunk.js.map",
+    "main.js": "/TraderBrain-Quiz-app/static/js/main.206d8605.chunk.js",
+    "main.js.map": "/TraderBrain-Quiz-app/static/js/main.206d8605.chunk.js.map",
     "runtime-main.js": "/TraderBrain-Quiz-app/static/js/runtime-main.2e225a52.js",
     "runtime-main.js.map": "/TraderBrain-Quiz-app/static/js/runtime-main.2e225a52.js.map",
     "static/js/2.7f0abbd4.chunk.js": "/TraderBrain-Quiz-app/static/js/2.7f0abbd4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2e225a52.js",
     "static/js/2.7f0abbd4.chunk.js",
     "static/css/main.2636e90b.chunk.css",
-    "static/js/main.fdc77444.chunk.js"
+    "static/js/main.206d8605.chunk.js"
   ]
 }
